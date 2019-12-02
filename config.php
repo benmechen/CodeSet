@@ -16,34 +16,34 @@
     //Define the database details
     $dbs = array(
         "CODESET_AUTH" => array(
-            "dbname" => "db657046199",
-            "username" => "dbo657046199",
-            "password" => "CODESET_AUTH",
-            "host" => "db657046199.db.1and1.com"
+            "dbname" => "***********",
+            "username" => "***********",
+            "password" => "***********",
+            "host" => "***********"
         ),
         "CODESET_CLASSES" => array(
-            "dbname" => "db662374861",
-            "username" => "dbo662374861",
-            "password" => "CODESET_CLASSES",
-            "host" => "db662374861.db.1and1.com"
+            "dbname" => "***********",
+            "username" => "***********",
+            "password" => "***********",
+            "host" => "***********"
         ),
         "CODESET_THESTRAL" => array(
-            "dbname" => "db668273832",
-            "username" => "dbo668273832",
-            "password" => "CODESET_THESTRAL",
-            "host" => "db668273832.db.1and1.com"
+            "dbname" => "***********",
+            "username" => "***********",
+            "password" => "***********",
+            "host" => "***********"
         ),
         "CODESET_NEWS" => array(
-            "dbname" => "db658087996",
-            "username" => "dbo658087996",
-            "password" => "CODESET_NEWS",
-            "host" => "db658087996.db.1and1.com"
+            "dbname" => "***********",
+            "username" => "***********",
+            "password" => "***********",
+            "host" => "***********"
         ),
         "CODESET_CONTACT" => array(
-            "dbname" => "db686001594",
-            "username" => "dbo686001594",
-            "password" => "CODESET_CONTACT",
-            "host" => "db686001594.db.1and1.com"
+            "dbname" => "***********",
+            "username" => "***********",
+            "password" => "***********",
+            "host" => "***********"
         )
     );
 
@@ -57,7 +57,7 @@
 
     //Set up CodeSet Mail
     require_once $DIR.'private_server/includes/CodeSetMail/class.mail.php';
-    $codesetMail = new CodeSet\SendMail('587', 'server@codeset.co.uk', 'CodeSetServer1');
+    $codesetMail = new CodeSet\SendMail('587', 'server@codeset.co.uk', '***********');
     
     //Set up CodeSet Logs
     require_once $DIR.'private_server/includes/CodeSetLogs/class.logs.php';
