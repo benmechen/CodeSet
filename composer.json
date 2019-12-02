@@ -1,0 +1,6 @@
+{
+        "require": {
+                "phpauth/phpauth": "*",
+                "bjeavons/zxcvbn-php": "^0.2"
+        }
+}

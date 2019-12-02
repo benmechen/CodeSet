@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-7/Q-INT/7-INT.py", line 3, in <module>
+    print(i**x**i**x)
+MemoryError

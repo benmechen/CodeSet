@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-26/Q-34/26-34.py", line 13, in <module>
+    clinic()
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-26/Q-34/26-34.py", line 11, in clinic
+    clinic()
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-26/Q-34/26-34.py", line 4, in clinic
+    answer = input("Type left or right and hit 'Enter'.").lower()
+EOFError: EOF when reading a line

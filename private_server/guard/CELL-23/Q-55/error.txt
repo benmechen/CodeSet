@@ -1,0 +1,4 @@
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-23/Q-55/23-55.py", line 4
+    if number = (%3)
+              ^
+SyntaxError: invalid syntax

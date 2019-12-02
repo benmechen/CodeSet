@@ -1,0 +1,3 @@
+#Hello variable
+
+variable = "Hello"

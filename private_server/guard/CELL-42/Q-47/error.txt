@@ -1,0 +1,4 @@
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-42/Q-47/42-47.py", line 15
+    zoo_animals[10] = ['Rockhopper Penguin']
+    ^
+IndentationError: unexpected indent

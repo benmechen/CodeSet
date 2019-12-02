@@ -1,0 +1,3 @@
+#Communism
+
+variable = "Hello"

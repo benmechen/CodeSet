@@ -1,0 +1,151 @@
+[
+    {
+        "name": "bjeavons/zxcvbn-php",
+        "version": "0.2.0",
+        "version_normalized": "0.2.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/bjeavons/zxcvbn-php.git",
+            "reference": "e9e242d76fc32de68af3b7e360b7179af05ced9e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/bjeavons/zxcvbn-php/zipball/e9e242d76fc32de68af3b7e360b7179af05ced9e",
+            "reference": "e9e242d76fc32de68af3b7e360b7179af05ced9e",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^5.3 || ^7.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "*",
+            "satooshi/php-coveralls": "*"
+        },
+        "time": "2016-09-08 17:29:46",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "ZxcvbnPhp\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "See contributors",
+                "homepage": "https://github.com/bjeavons/zxcvbn-php"
+            }
+        ],
+        "description": "Realistic password strength estimation PHP library based on Zxcvbn JS",
+        "homepage": "https://github.com/bjeavons/zxcvbn-php",
+        "keywords": [
+            "password",
+            "zxcvbn"
+        ]
+    },
+    {
+        "name": "phpmailer/phpmailer",
+        "version": "v5.2.16",
+        "version_normalized": "5.2.16.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/PHPMailer/PHPMailer.git",
+            "reference": "1d85f9ef3ecfc42bbc4f3c70d5e37ca9a65f629a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/1d85f9ef3ecfc42bbc4f3c70d5e37ca9a65f629a",
+            "reference": "1d85f9ef3ecfc42bbc4f3c70d5e37ca9a65f629a",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.0.0"
+        },
+        "require-dev": {
+            "phpdocumentor/phpdocumentor": "*",
+            "phpunit/phpunit": "4.7.*"
+        },
+        "suggest": {
+            "league/oauth2-google": "Needed for Google XOAUTH2 authentication"
+        },
+        "time": "2016-06-06 09:09:37",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "class.phpmailer.php",
+                "class.phpmaileroauth.php",
+                "class.phpmaileroauthgoogle.php",
+                "class.smtp.php",
+                "class.pop3.php",
+                "extras/EasyPeasyICS.php",
+                "extras/ntlm_sasl_client.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "LGPL-2.1"
+        ],
+        "authors": [
+            {
+                "name": "Jim Jagielski",
+                "email": "jimjag@gmail.com"
+            },
+            {
+                "name": "Marcus Bointon",
+                "email": "phpmailer@synchromedia.co.uk"
+            },
+            {
+                "name": "Andy Prevost",
+                "email": "codeworxtech@users.sourceforge.net"
+            },
+            {
+                "name": "Brent R. Matzelle"
+            }
+        ],
+        "description": "PHPMailer is a full-featured email creation and transfer class for PHP"
+    },
+    {
+        "name": "phpauth/phpauth",
+        "version": "1.1.1",
+        "version_normalized": "1.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/PHPAuth/PHPAuth.git",
+            "reference": "849274911beb8d235f3eb8228bb13ce77962be75"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/PHPAuth/PHPAuth/zipball/849274911beb8d235f3eb8228bb13ce77962be75",
+            "reference": "849274911beb8d235f3eb8228bb13ce77962be75",
+            "shasum": ""
+        },
+        "require": {
+            "bjeavons/zxcvbn-php": "*",
+            "php": ">=5.4.0",
+            "phpmailer/phpmailer": "^5.2"
+        },
+        "time": "2016-07-14 15:45:30",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "PHPAuth\\": "/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "A secure user authentication class for PHP websites, using a powerful password hashing system and attack blocking to keep your website and users secure.",
+        "homepage": "http://phpauth.github.io/PHPAuth/",
+        "keywords": [
+            "Authentication",
+            "class",
+            "secure"
+        ]
+    }
+]

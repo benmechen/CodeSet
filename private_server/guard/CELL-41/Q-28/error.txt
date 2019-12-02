@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-41/Q-28/41-28.py", line 3, in <module>
+    print("The value of pi is around " + 3.14)
+TypeError: Can't convert 'float' object to str implicitly

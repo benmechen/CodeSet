@@ -1,0 +1,3 @@
+#cashola
+
+variable = "Hello"

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-31/Q-7/31-7.py", line 8, in <module>
+    print(count_to)
+NameError: name 'count_to' is not defined

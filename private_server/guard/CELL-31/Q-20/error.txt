@@ -1,0 +1,4 @@
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-31/Q-20/31-20.py", line 2
+    print()len(parrot)
+             ^
+SyntaxError: invalid syntax

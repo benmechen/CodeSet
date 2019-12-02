@@ -1,0 +1,4 @@
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-29/Q-28/29-28.py", line 4
+    
+                                                  ^
+SyntaxError: unexpected EOF while parsing

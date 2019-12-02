@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-28/Q-65/28-65.py", line 5, in <module>
+    print(Animal.name)
+AttributeError: type object 'Animal' has no attribute 'name'

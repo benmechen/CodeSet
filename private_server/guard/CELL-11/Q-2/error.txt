@@ -1,0 +1,66 @@
+Traceback (most recent call last):
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 4, in <module>
+    print(recurssion(2))
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-11/Q-2/11-2.py", line 2, in recurssion
+    return recurssion(i*i)
+MemoryError

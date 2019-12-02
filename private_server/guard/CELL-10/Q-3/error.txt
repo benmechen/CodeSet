@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-10/Q-3/10-3.py", line 4, in <module>
+    my_bool = true
+NameError: name 'true' is not defined

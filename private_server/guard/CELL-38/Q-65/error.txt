@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-38/Q-65/38-65.py", line 1, in <module>
+    class Animal(object): zebra == Animal("Jeffrey")
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-38/Q-65/38-65.py", line 1, in Animal
+    class Animal(object): zebra == Animal("Jeffrey")
+NameError: name 'zebra' is not defined

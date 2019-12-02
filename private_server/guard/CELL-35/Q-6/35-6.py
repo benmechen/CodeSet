@@ -1,0 +1,3 @@
+#ahda#
+
+variable = "Hello"

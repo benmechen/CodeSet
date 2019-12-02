@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-26/Q-32/26-32.py", line 4, in <module>
+    print(int(now))
+TypeError: int() argument must be a string or a number, not 'datetime.datetime'

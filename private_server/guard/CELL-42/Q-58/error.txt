@@ -1,0 +1,4 @@
+  File "/kunden/homepages/8/d657042007/htdocs/CodeSet/private_server/guard/CELL-42/Q-58/42-58.py", line 4
+    minimum = 
+             ^
+SyntaxError: invalid syntax
